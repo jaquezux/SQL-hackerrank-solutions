@@ -6,4 +6,8 @@ In order to improve my SQL skills, I decided to solve the SQL challenges provide
 In this repo, I will share my solutions and the steps I took to obtain the right output.
 
 
+### Solutions
+#### Basic Select
+
+
 ### This is a Work in Progress. 🛠️
